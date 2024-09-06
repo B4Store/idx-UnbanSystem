@@ -8,7 +8,7 @@
 
 # Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
-- [qb-core](https://github.com/qbcore-framework/qb-menu)
+- [qb-menu](https://github.com/qbcore-framework/qb-menu)
 
 # Preview
 ![Config Preview](https://r2.fivemanage.com/9sDcJPkZq3Zy9nUxeQvk9/images/Config.png)
